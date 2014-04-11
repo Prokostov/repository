@@ -17,7 +17,7 @@ $pr = mysql_query("SELECT * FROM products WHERE id = ". $_GET['id'] ."");
 <?php // НАЧАЛО НА HTML КОДА ?>
 
 
-
+<?php //bull shit!  ?>
 <tr>
 		
 	<td colspan=2>
